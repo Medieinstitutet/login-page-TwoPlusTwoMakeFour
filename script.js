@@ -47,8 +47,6 @@ function notaUser() {
 // //////////log in space////////////
 // //////////////////////////////////
 
-
-
 function logIn() {
     demo.innerHTML = "";
     mainDiv.innerHTML = "";
